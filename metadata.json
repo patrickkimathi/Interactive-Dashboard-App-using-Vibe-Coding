@@ -1,0 +1,6 @@
+{
+  "name": "Vantage Data Studio",
+  "description": "Interactive multi-dimensional analytics dashboard with real-time filtering, customizable chart widgets, and instant dataset import.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
